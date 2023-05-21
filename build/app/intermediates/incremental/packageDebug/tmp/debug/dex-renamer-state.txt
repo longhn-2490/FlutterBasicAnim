@@ -1,0 +1,4 @@
+#Tue May 25 10:43:49 ICT 2021
+base.0=/Users/longha97/Desktop/Flut/flutter_animation/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
